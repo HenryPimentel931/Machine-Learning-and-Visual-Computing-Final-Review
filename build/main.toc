@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}卷积定理}{1}{}%
+\contentsline {section}{\numberline {2}黎曼-勒贝格(Riemann-Lebesgue lemma)引理}{2}{}%
+\contentsline {subsection}{\numberline {2.1}引理内容}{2}{}%
+\contentsline {section}{\numberline {3}吉布斯(Gibbs phenomenon)现象}{4}{}%
+\contentsline {subsection}{\numberline {3.1}现象解释}{4}{}%
+\contentsline {subsection}{\numberline {3.2}吉布斯现象的数学解释}{4}{}%
+\contentsline {subsection}{\numberline {3.3}结论}{6}{}%
+\contentsline {section}{\numberline {4}香农(Shannon-Whittaker)采样定理}{7}{}%
+\contentsline {subsection}{\numberline {4.1}带限信号}{7}{}%
+\contentsline {subsection}{\numberline {4.2}香农采样定理}{7}{}%
+\contentsline {subsection}{\numberline {4.3}定理证明}{7}{}%
+\contentsline {subsection}{\numberline {4.4}表达式}{9}{}%
+\contentsline {section}{\numberline {5}张正友标定方法流程}{10}{}%
+\contentsline {subsection}{\numberline {5.1}相机标定}{10}{}%
+\contentsline {subsubsection}{\numberline {5.1.1}思想}{10}{}%
+\contentsline {subsection}{\numberline {5.2}标定流程}{10}{}%
+\contentsline {subsection}{\numberline {5.3}解算过程}{10}{}%
+\contentsline {subsection}{\numberline {5.4}关于使用SVD分解法求解方程$Vb=0$的合理性的说明}{14}{}%
